@@ -123,7 +123,7 @@ ATRIEVE-Project/
 
 | Home Page | Dashboard | Claim Status |
 |-----------|-----------|--------------|
-| ![Home](screenshots/home.png) | ![Dashboard](screenshots/dashboard.png) | ![Claim](screenshots/claim.png) |
+| ![Home](download/home.png) | 
 
 ---
 
